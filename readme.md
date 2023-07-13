@@ -3,7 +3,7 @@
 
 The cards can be created at https://passi-flora.github.io/tradingcards/.   
 An example file can be found at [exampledata.txt](exampledata.txt).   
-The images are from CATAS (Cat as a service / https://cataas.com/).  
+The images are from CATAAS (Cat as a service / https://cataas.com/).  
 
 # Format
 The cards are designed in the traditional trading card format (2.5 " x 3.5 "). 
